@@ -1,0 +1,5 @@
+﻿ CREATE TABLE COURSES(
+   ID   INT              NOT NULL,
+   NAME VARCHAR (20)     NOT NULL,   
+   PRIMARY KEY (ID)
+);
